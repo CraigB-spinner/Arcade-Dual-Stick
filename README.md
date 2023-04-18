@@ -6,4 +6,5 @@ Use on games that have two joysticks to control your movement and directional fi
 [![A](Pics/TNx2/Dual%20Stick.JPG)](Pics/Dual%20Stick.JPG)  
 URL: https://craigb-spinner.github.io/Arcade-Dual-Stick/<br/>
 <br/> <br/> <br/> 
-Pics/Dual Stick.JPG
+**[Coin, Play & Special Buttons](https://craigb-spinner.github.io/Arcade-Spinner/Coin-Play-Exit.html)**<br/>
+<br/>
