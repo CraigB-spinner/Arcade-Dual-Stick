@@ -7,7 +7,7 @@ Use on games that have two joysticks to control your movement and directional fi
 <br/> 
 Buttons 1-6(turned CW 'S-pattern'), plus 9-Select(Coin), 10-Start(Play), and 12-Hotkey(Exit)<br/>
 
-Pin |Button/wire  |Code  
+Pin |Button/wire  |Use  
 --- |------------ |----  
 K1  |Button 1 - X
 K2  |Button 2 - A
@@ -16,9 +16,16 @@ K4  |Button 4 - Y
 K5  |Button 5 - L
 K6  |Button 6 - R
 K9  |Button 9 - Select | Coin
-K10 |Button 10 - Start |Play
-K12 |Button 12 - Hotkey |Exit
+K10 |Button 10 - Start | Play
+K12 |Button 12 - Hotkey | Exit
+Joy |5 Pin Sanwa | joystick 1 
 
+Pin |Button/wire  |Use 
+--- |------------ |----  
+K1  |Empty
+... |Empty
+K12 |Empty
+Joy |5 Pin Sanwa | joystick 2 
 
 **[Coin, Play & Special Buttons](https://craigb-spinner.github.io/Arcade-Spinner/Coin-Play-Exit.html)**<br/>
 <br/>
