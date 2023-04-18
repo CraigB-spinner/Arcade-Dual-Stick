@@ -18,7 +18,7 @@ K6  |Button 6 - R
 K9  |Button 9 - Select | Coin
 K10 |Button 10 - Start | Play
 K12 |Button 12 - Hotkey | Exit
-Joy |5 Pin Sanwa | joystick 1 
+Joy |5 Pin Sanwa | joystick 1
 
 Pin |Button/wire  |Use 
 --- |------------ |----  
