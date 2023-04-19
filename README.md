@@ -25,7 +25,14 @@ K10  |Button 10 - Start |Play
 K12  |Button 12 - Hotkey |Exit
 Joy  |5 Pin SANWA  |Joystick 1 <br/>
 
+**Second Zero Delay Controller**<br/>
 
+Plug |Button       |Use 
+---- |------------ |----
+K1   |Empty        |Unused
+...  |Empty        |...
+K3   |Empty        |Unused
+Joy  |5 Pin SANWA  |Joystick 2 <br/>
 
 
 
@@ -34,7 +41,7 @@ Joy  |5 Pin SANWA  |Joystick 1 <br/>
 **First Zero Delay Controller**  
 Plug |Button       |Use  
 ---- |------------ |----  
-K1   |Button 1 - X |X  
+K1   |Empty        |Unused  
 K2   |Button 2 - A |A  
 K3   |Button 3 - B |B  
 K4   |Button 4 - Y |Y  
