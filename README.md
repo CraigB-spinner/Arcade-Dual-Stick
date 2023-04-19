@@ -10,6 +10,7 @@ Buttons 1-6(turned CW 'S-pattern'), plus 9-Select(Coin), 10-Start(Play), and 12-
 The second Zero Delay Controller is setup in box attached to right Joystick without any additional buttons. 
 In Robotron 2084 control is handled by both Joysticks with use of Coin & Play buttons.<br/>
 
+**First Zero Delay Controller**
 Plug |Button       |Use  
 ---- |------------ |----  
 K1   |Button 1 - X | X
@@ -22,15 +23,16 @@ K9   |Button 9 - Select | Coin
 K10  |Button 10 - Start | Play
 K12  |Button 12 - Hotkey | Exit
 Joy  |5 Pin Sanwa | Joystick 1
-
+ 
+**Second Zero Delay Controller**
 Plug |Button       |Use  
 ---- |------------ |----  
 K1   |Empty        |Unused
 ...  |Empty        | ...
 K12  |Empty        |Unused
 Joy  |5 Pin Sanwa | Joystick 2 
-
-**[Coin, Play & Special Buttons](https://craigb-spinner.github.io/Arcade-Spinner/Coin-Play-Exit.html)**<br/>
+ 
+**[Coin, Play & Special Buttons](https://craigb-spinner.github.io/Arcade-Spinner/Coin-Play-Exit.html) wiring**<br/>
 <br/>
 **The Box:** Dual Stick box dimensions  
 ***Wood box*** measures 14½” x 7” x 3” in size, ¾” thick walls -   
