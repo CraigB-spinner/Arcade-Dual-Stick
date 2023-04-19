@@ -44,5 +44,5 @@ Angel Kids, Assualt, Black Widow, Bullet, Crazy Climber 2, Draco, Karate Champ, 
 wood sides (top/bottom) have ¼” deep rabbet ¾” wide butt joints glued, and undersized ¼” rabbet along inside bottom edge to allow 13½” x 6” x ¼” plywood panel to recess in flush. The wood box outside bottom and side edges have ¼ round routered edge.  
 ***Plexiglass top*** measures 16” x 8” x ⅛” with ¾” overhang each side, except ¼” in rear - box sides cut oversized however, allows for larger stable footprint. (original reason for wood recess near Exit/Play/Coin buttons)  
 Top attached using seven M4*8mm threaded wood inserts and M4x12mm flat head Phillips screws.  
-Each joystick attached with four M4x12mm flat head Phillips screws and M4 serrated flanged nuts. 
+Each joystick attached with four M4x12mm flat head Phillips screws and M4 serrated flanged nuts.  
 Final clear coat finish will be applied, a printed insert covering controller & wire clutter to complete project.
