@@ -10,7 +10,7 @@ Buttons 1-6(turned CW 'S-pattern'), plus 9-Select(Coin), 10-Start(Play), and 12-
 The second Zero Delay Controller is setup in box attached to right Joystick without any additional buttons. 
 In Robotron 2084 control is handled by both Joysticks with use of Coin & Play buttons.<br/>
 
-Buttons 1-6, plus 9-select(coin), and 10-start(player)<br/>
+**First Zero Delay Controller**<br/>
 
 Plug |Button       |Use 
 ---- |------------ |----
