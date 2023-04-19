@@ -36,6 +36,9 @@ Joy  |5 Pin SANWA  |Joystick 2 <br/>
 
 **[Coin, Play & Special Buttons](https://craigb-spinner.github.io/Arcade-Spinner/Coin-Play-Exit.html) wiring**<br/>
 <br/>
+**Partial Game list of dual joystick controls**  
+Angel Kids, Assualt, Black Widow, Bullet, Crazy Climber 2, Draco, Karate Champ, Krull, Libble Rabble, Munch Mobile, QB-3, **Robotron 2084**, Rock Climber, Screw Loose, **Smash TV**, Space Dungeon, Splat!, Title Fight, Total Carnage, etc. <br/>
+<br/>
 **The Box:** Dual Stick box dimensions  
 ***Wood box*** measures 14½” x 7” x 3” in size, ¾” thick walls -   
 wood sides have ¼” deep rabbet ¾” wide butt joints glued, and undersized ¼” rabbet along inside bottom edge to allow 13½” x 6” x ¼” plywood panel to recess in flush. The wood box outside bottom and side edges have ¼ round routered edge.  
