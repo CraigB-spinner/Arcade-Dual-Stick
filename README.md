@@ -2,13 +2,13 @@
 Custom Dual Arcade Stick Box
 
 A custom **Dual Stick** using home-made fabricated box & two Zero Delay Controller boards. 
-Use on games that have two joysticks to control your movement and directional fire like **Robotron 2084**.<br/>
+Use on games that have two joysticks to control your movement and directional fire like **Robotron: 2084**.<br/>
 [![A](Pics/TNx2/Dual%20Stick.JPG)](Pics/Dual%20Stick.JPG)  
 <br/> 
-The first Zero Delay Controller is setup in box attached to left Joystick and can be used for player #1 with 
+The first Zero Delay Controller is setup in box attached to left Joystick and can be used as player #1 with 
 Buttons 1-6(turned CW 'S-pattern'), plus 9-Select(Coin), 10-Start(Play), and 12-Hotkey(Exit). 
 The second Zero Delay Controller is setup in box attached to right Joystick without any additional buttons. 
-In **Robotron 2084** control is handled by both Joysticks with use of Coin & Play buttons.<br/>
+In **Robotron: 2084** control is handled by both Joysticks with use of Coin & Play buttons.<br/>
 
 **First Zero Delay Controller**<br/>
 
@@ -37,9 +37,10 @@ Joy  |5 Pin SANWA  |Joystick 2 <br/>
 **[Coin, Play & Special Buttons](https://craigb-spinner.github.io/Arcade-Spinner/Coin-Play-Exit.html) wiring**<br/>
 <br/>
 **Partial Game list of dual joystick controls**  
-Angel Kids, Assualt, Black Widow, Bullet, Crazy Climber 2, Draco, Karate Champ, Krull, Libble Rabble, Munch Mobile, QB-3, **Robotron 2084**, Rock Climber, Screw Loose, **Smash TV**, Space Dungeon, Splat!, Title Fight, Total Carnage, etc. <br/>
+Angel Kids, Assualt, Black Widow, Bullet, Crazy Climber 2, Draco, Karate Champ, Krull, Libble Rabble, Munch Mobile, QB-3, **Robotron: 2084**, Rock Climber, Screw Loose, **Smash T.V.**, Space Dungeon, Splat!, Title Fight, Total Carnage, etc. <br/>
 <br/>
 **The Box:** Dual Stick box dimensions  
 ***Wood box*** measures 14½” x 7” x 3” in size, ¾” thick walls -   
-wood sides have ¼” deep rabbet ¾” wide butt joints glued, and undersized ¼” rabbet along inside bottom edge to allow 13½” x 6” x ¼” plywood panel to recess in flush. The wood box outside bottom and side edges have ¼ round routered edge.  
-***Plexiglass top*** measures 16” x 8” x ⅛” with ¾” overhang each side, except ¼” in rear - box sides cut oversized however, allows for larger stable footprint. (original reason for wood recess near Exit/Play/Coin buttons)
+wood sides (top/bottom) have ¼” deep rabbet ¾” wide butt joints glued, and undersized ¼” rabbet along inside bottom edge to allow 13½” x 6” x ¼” plywood panel to recess in flush. The wood box outside bottom and side edges have ¼ round routered edge.  
+***Plexiglass top*** measures 16” x 8” x ⅛” with ¾” overhang each side, except ¼” in rear - box sides cut oversized however, allows for larger stable footprint. (original reason for wood recess near Exit/Play/Coin buttons)  
+Final clear coat finish will be applied, a printed insert covering controller & wire clutter to complete project.
