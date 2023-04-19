@@ -23,7 +23,7 @@ K6   |Button 6 - R |R
 K9   |Button 9 - Select |Coin
 K10  |Button 10 - Start |Play
 K12  |Button 12 - Hotkey |Exit
-
+Joy  |5 Pin SANWA  |Joystick 1 <br/>
 
 
 
