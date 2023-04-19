@@ -30,36 +30,10 @@ Joy  |5 Pin SANWA  |Joystick 1 <br/>
 Plug |Button       |Use 
 ---- |------------ |----
 K1   |Empty        |Unused
-...  |Empty        |...
-K3   |Empty        |Unused
+...  |Empty        |- - -
+K12  |Empty        |Unused
 Joy  |5 Pin SANWA  |Joystick 2 <br/>
 
-
-
-
-
-**First Zero Delay Controller**  
-Plug |Button       |Use  
----- |------------ |----  
-K1   |Empty        |Unused  
-K2   |Button 2 - A |A  
-K3   |Button 3 - B |B  
-K4   |Button 4 - Y |Y  
-K5   |Button 5 - L |L  
-K6   |Button 6 - R |R  
-K9   |Button 9 - Select |Coin  
-K10  |Button 10 - Start |Play  
-K12  |Button 12 - Hotkey|Exit  
-Joy  |5 Pin Sanwa |Joystick 1 <br/>
- 
-**Second Zero Delay Controller**  
-Plug |Button       |Use  
----- |------------ |----  
-K1   |Empty        |Unused  
-...  |Empty        | ...  
-K12  |Empty        |Unused  
-Joy  |5 Pin Sanwa | Joystick 2  
- 
 **[Coin, Play & Special Buttons](https://craigb-spinner.github.io/Arcade-Spinner/Coin-Play-Exit.html) wiring**<br/>
 <br/>
 **The Box:** Dual Stick box dimensions  
