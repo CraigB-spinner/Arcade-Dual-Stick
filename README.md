@@ -2,13 +2,13 @@
 Custom Dual Arcade Stick Box
 
 A custom **Dual Stick** using home-made fabricated box & two Zero Delay Controller boards. 
-Use on games that have two joysticks to control your movement and directional fire like Robotron 2084.<br/>
+Use on games that have two joysticks to control your movement and directional fire like **Robotron 2084**.<br/>
 [![A](Pics/TNx2/Dual%20Stick.JPG)](Pics/Dual%20Stick.JPG)  
 <br/> 
 The first Zero Delay Controller is setup in box attached to left Joystick and can be used for player #1 with 
 Buttons 1-6(turned CW 'S-pattern'), plus 9-Select(Coin), 10-Start(Play), and 12-Hotkey(Exit). 
 The second Zero Delay Controller is setup in box attached to right Joystick without any additional buttons. 
-In Robotron 2084 control is handled by both Joysticks with use of Coin & Play buttons.<br/>
+In **Robotron 2084** control is handled by both Joysticks with use of Coin & Play buttons.<br/>
 
 **First Zero Delay Controller**<br/>
 
