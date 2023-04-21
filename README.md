@@ -33,23 +33,20 @@ K1   |Empty        |Unused
 ...  |Empty        |- - -
 K12  |Empty        |Unused
 Joy  |5 Pin SANWA  |Joystick 2 <br/>
- 
-<br/> 
-**Second Joystick 5 Pin to Controller Plug** <br/>
- 
-If you rotate a Sanwa or Seimitsu joystick with micro-switches soldered to a PCB board, the wire harness will not relay proper connection order for expected four directions. The first row below is the standard mounting of 5 pin joysticks with connector exiting lower right corner. There are another three possible orientation to mount such a joystick. My stick two has the harness exit from upper left to aid fitting into the wood box. The result is left/right and up/down directions being flipped on the harness, requiring adjustment to a single end. Four direction connections other than the Ground are released from plug and re-inserted in new proper location. The modification re-orients the joystick back to proper four directions. The process is required to stop Binding confusion when using similar controller boards with RetroPie/RetroArch. A similar issue can happen to buttons if you don't follow a consistent button assignment order. 
+
+<br/>**Second Joystick 5 Pin to Controller Plug** <br/>
+ If you rotate a Sanwa or Seimitsu joystick with micro-switches soldered to a PCB board, the wire harness will not relay proper connection order for expected four directions. The first row below is the standard mounting of 5 pin joysticks with connector exiting lower right corner. There are another three possible orientation to mount such a joystick. My stick two has the harness exit from upper left to aid fitting into the wood box. The result is left/right and up/down directions being flipped on the harness, requiring adjustment to a single end. Four direction connections other than the Ground are released from plug and re-inserted in new proper location. The modification re-orients the joystick back to proper four directions. The process is required to stop Binding confusion when using similar controller boards with RetroPie/RetroArch. A similar issue can happen to buttons if you don't follow a consistent button assignment order. 
 
 **Sanwa/Seimitsu Harness Layout**-viewed from top <br/>
 
 Pin Direction|Pin# Change|Orientation of plug  
------------- |---------- |-------------------
+------------ |---------- |------------------- 
 Gnd ◄ ► ▼ ▲  | G 2 3 4 5 | Lower Right (Std) 
 Gnd ▲ ▼ ◄ ►  | G 5 4 2 3 | Bottom Left 
 Gnd ► ◄ ▲ ▼  | G 3 2 5 4 | Upper Left 
 Gnd ▼ ▲ ► ◄  | G 4 5 3 2 | Top Right <br/>
 
-<br/>
-**[Coin, Play & Special Buttons](https://craigb-spinner.github.io/Arcade-Spinner/Coin-Play-Exit.html) wiring**<br/>
+<br/>**[Coin, Play & Special Buttons](https://craigb-spinner.github.io/Arcade-Spinner/Coin-Play-Exit.html) wiring**<br/>
 <br/>
 **Partial Game list of dual joystick controls**  
 Angel Kids, Assualt, Black Widow, Bullet, Crazy Climber 2, Draco, Karate Champ, Krull, Libble Rabble, Munch Mobile, QB-3, **Robotron: 2084**, Rock Climber, Screw Loose, **Smash T.V.**, Space Dungeon, Splat!, Title Fight, Total Carnage, etc. <br/>
