@@ -4,15 +4,15 @@ For **Robotron: 2084** and **Smash T.V.**
 - Start each game 
 - Hit \<TAB> on the keyboard to enter MAME menu.  
 - Select Input (this game)  
-  
+- Scroll down to control and press 'A'  
 
 **Robotron: 2084**  
-Plug |Use       | 
----- |------------ |----
-P1 Right/Up    |Stick 2/Up - X |X
-P1 Right/Down  |Stick 2/Down |A
-P1 Right/Left  |Stick 2/Left |B
-P1 Right/Right |Stick 2/Right |Y
+Control |Use       
+------- |------------ 
+P1 Right/Up    |Stick 2/Up 
+P1 Right/Down  |Stick 2/Down 
+P1 Right/Left  |Stick 2/Left 
+P1 Right/Right |Stick 2/Right <br/>
 
 
 
