@@ -13,6 +13,7 @@ For **Robotron: 2084** and **Smash T.V.**
 - Stored in roms/arcade sub folder mamexxxx/cfg or where you store MAME ROMs<br/>
 
 **Robotron: 2084**  
+
 Control        |Use       
 -------------- |------------ 
 P1 Right/Up    |Stick 2/Up 
@@ -21,6 +22,7 @@ P1 Right/Left  |Stick 2/Left
 P1 Right/Right |Stick 2/Right <br/>
 
 **Smash T.V.**  
+
 Control     |Use       
 ----------- |------------ 
 P1 Button 3 |Stick 2/Up 
