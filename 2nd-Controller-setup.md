@@ -5,7 +5,7 @@ For **Robotron: 2084** and **Smash T.V.**
 - Hit \<TAB> on the keyboard to enter MAME menu.  
 - Select Input (this game)  
 - Scroll down to control line, press 'A' to select 
-- Select your direction on stick 2 
+- Select your direction on stick 2, upto 5 secs before action displayed 
 - finish all four directions 
 - Scroll down to 'Return to Prior Menu', press 'A' 
 - Scroll down to 'Return to Game', press 'A' 
