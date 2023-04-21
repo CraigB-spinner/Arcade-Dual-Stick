@@ -29,17 +29,3 @@ P1 Button 3 |Stick 2/Up
 P1 Button 1 |Stick 2/Down 
 P1 Button 2 |Stick 2/Left 
 P1 Button 4 |Stick 2/Right <br/>
-
-
-
-
-Plug |Button       |Use 
----- |------------ |----
-K1   |Button 1 - X |X
-K2   |Button 2 - A |A
-K3   |Button 3 - B |B
-K4   |Button 4 - Y |Y <br/>
-
-
-
-
