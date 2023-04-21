@@ -39,6 +39,8 @@ Joy  |5 Pin SANWA  |Joystick 2 <br/>
 **Partial Game list of dual joystick controls**  
 Angel Kids, Assualt, Black Widow, Bullet, Crazy Climber 2, Draco, Karate Champ, Krull, Libble Rabble, Munch Mobile, QB-3, **Robotron: 2084**, Rock Climber, Screw Loose, **Smash T.V.**, Space Dungeon, Splat!, Title Fight, Total Carnage, etc. <br/>
 <br/>
+**Robotron: 2084** and **Smash T.V.** [Second Controller setup](2nd-Controller-setup.md)<br/>
+<br/>
 **The Box:** Dual Stick box dimensions  
 ***Wood box*** measures 14½” x 7” x 3” in size, ¾” thick walls -   
 wood sides (top/bottom) have ¼” deep rabbet ¾” wide butt joints glued, and undersized ¼” rabbet along inside bottom edge to allow 13½” x 6” x ¼” plywood panel to recess in flush. The wood box outside bottom and side edges have ¼ round routered edge.  
